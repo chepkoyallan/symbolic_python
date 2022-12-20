@@ -1,0 +1,6 @@
+notebook
+sympy_plot_backends
+jupyter_contrib_nbextensions
+install antlr4-python3-runtime
+graphviz
+pyan3
